@@ -25,6 +25,7 @@ classifiers = [
 ]
 dependencies = [
     "importlib-metadata; python_version<'3.10'",
+    "PyYAML>=6.0.1"
 ]
 dynamic = ["version"]
 
