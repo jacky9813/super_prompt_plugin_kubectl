@@ -2,7 +2,7 @@
 Super Prompt - kubectl Plugin
 #############################
 
-.. _Super Prompt: https://kubectlhub.com/jacky9813/super_prompt
+.. _Super Prompt: https://github.com/jacky9813/super_prompt
 
 A plugin for `Super Prompt`_ that indicates the current context of kubectl.
 
